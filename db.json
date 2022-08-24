@@ -1,0 +1,19 @@
+{
+  "employees": [
+    {
+      "firstName": "Nainika",
+      "lastName": "banuka",
+      "email": "nainika@gmail.com",
+      "password": "12345",
+      "id": 1
+    },
+   
+    {
+      "firstName": "swetha",
+      "lastName": "kaleru",
+      "email": "vikas.banuka@gmail.com",
+      "password": "dddddddddd",
+      "id": 2
+    }
+  ]
+}
